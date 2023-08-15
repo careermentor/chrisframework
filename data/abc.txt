@@ -1,0 +1,7 @@
+Inheritance
+Polymorphism - Overloading/Overriding
+Abstraction
+Interface
+This is simple text file
+tchange the file
+name=Santosh
